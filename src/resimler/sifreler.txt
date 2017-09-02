@@ -1,0 +1,13 @@
+aboneNo-adminNo        Þifre(Hashsiz)
+---------------        --------------
+0001                   furkan1234
+0002                   mahmut1234
+0003                   hüseyin1234
+0004                   ayþe1234
+0005                   veli1234
+0006                   fatma1234
+0007                   bihter1234
+0008                   tugay1234
+0009                   gözde1234
+0010                   ali1234
+0011                   sezen1234

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="ana_pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="detayVerPaneli.DetayVerController">
+   <children>
+      <ImageView fitHeight="640.0" fitWidth="600.0" layoutY="110.0" pickOnBounds="true" preserveRatio="true" scaleY="1.62">
+         <image>
+            <Image url="@../resimler/bck.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="14.0" layoutY="14.0" text="Fatura No:">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="lbl_faturaNo" layoutX="112.0" layoutY="14.0" text="12" textFill="#b8a015">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Separator layoutY="50.0" prefWidth="600.0" style="-fx-background-color: #b8a015;" />
+      <Separator prefWidth="600.0" style="-fx-background-color: #b8a015;" />
+      <Separator layoutX="147.0" layoutY="2.0" orientation="VERTICAL" prefHeight="49.0" prefWidth="7.0" style="-fx-background-color: #b8a015;" />
+      <Label layoutX="162.0" layoutY="14.0" text="Daire Alanı:">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="lbl_daireAlani" layoutX="267.0" layoutY="14.0" text="175" textFill="#b8a015">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="306.0" layoutY="14.0" prefHeight="25.0" prefWidth="22.0" text="m2">
+         <font>
+            <Font name="Comic Sans MS Bold" size="14.0" />
+         </font>
+      </Label>
+      <Separator layoutX="335.0" layoutY="2.0" orientation="VERTICAL" prefHeight="49.0" prefWidth="7.0" style="-fx-background-color: #b8a015;" />
+      <Label layoutX="348.0" layoutY="14.0" text="Fatura Bedeli:">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="lbl_faturaBedeli" layoutX="474.0" layoutY="14.0" text="175.55" textFill="#b8a015">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="544.0" layoutY="14.0" prefHeight="25.0" prefWidth="22.0" text="₺">
+         <font>
+            <Font name="Comic Sans MS Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="66.0" text="Fatura Yıl/Ay:">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="lbl_ayVeYil" layoutX="147.0" layoutY="66.0" text="2017/Ocak" textFill="#b8a015">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="lbl_sonOdemeTar" layoutX="252.0" layoutY="94.0" text="12.12.1994" textFill="#b8a015">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="13.0" layoutY="94.0" text="Fatura Son Ödeme Tairihi:">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="13.0" layoutY="140.0" text="Fatura Ödenme Durumu:">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Separator layoutY="129.0" prefWidth="600.0" style="-fx-background-color: #b8a015;" />
+      <Label fx:id="lbl_odenmeDurumu" layoutX="232.0" layoutY="140.0" text="Evet" textFill="#b8a015">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="13.0" layoutY="165.0" text="Fatura Ödenme Tarihi:">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="lbl_odenmeTarihi" layoutX="232.0" layoutY="165.0" text="12.12.1994" textFill="#b8a015">
+         <font>
+            <Font name="Comic Sans MS Bold" size="18.0" />
+         </font>
+      </Label>
+      <Separator layoutY="200.0" prefHeight="3.0" prefWidth="600.0" style="-fx-background-color: #b8a015;" />
+      <HBox layoutX="20.0" layoutY="216.0" prefHeight="100.0" prefWidth="557.0">
+         <children>
+            <VBox prefHeight="252.0" prefWidth="247.0">
+               <children>
+                  <Label text="Isıtma Sistemi Toplam Yakıt Gideri:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="Isıtma Gideri Toplam Yakıt Tutarı:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="Isıtma Gideri Sıcak Su Isıtma Bedeli:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="Isıtma Gideri Ortak Pay:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="64.0" text="Ortak Pay m2 Birim Maliyeti:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="82.0" text="Ortak Pay Tutarı:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="100.0" text="Bireysel Isınma Tüketim Tutarı:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="118.0" text="Bireysel Isınma Tüketim Miktarı:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="136.0" text="Sıcak Su Tüketim Fatura Tutarı:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="154.0" text="Sıcak Su Toplam Tüketim Tutarı:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="172.0" text="Sıcak Su Birim Maliyeti:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="Soğuk Su Tüketim Fatura Tutarı:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="Soğuk Su Toplam Tüketim Tutarı:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="Soğuk Su Birim Maliyeti:">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox prefHeight="252.0" prefWidth="67.0">
+               <children>
+                  <Label fx:id="lbl_istyg" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_igtyt" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_igssib" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_igop" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_opmbm" layoutX="10.0" layoutY="64.0" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_opt" layoutX="10.0" layoutY="82.0" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_bitt" layoutX="10.0" layoutY="100.0" prefHeight="18.0" prefWidth="58.0" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_bitm" layoutX="10.0" layoutY="118.0" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_sstft" layoutX="10.0" layoutY="136.0" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_ssttt" layoutX="10.0" layoutY="154.0" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_ssbm" layoutX="10.0" layoutY="172.0" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_sosstft" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_ssttm" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="lbl_sosbm" text="150.02" textFill="#b8a015">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox prefHeight="252.0" prefWidth="67.0">
+               <children>
+                  <Label text="₺">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="₺">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="₺">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="₺">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="64.0" text="₺/m2">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="82.0" text="₺">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="100.0" text="₺">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="118.0" text="kWh">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="136.0" text="₺">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="154.0" text="L">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="10.0" layoutY="172.0" text="₺/L">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="₺">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="L">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+                  <Label text="₺/L">
+                     <font>
+                        <Font name="Comic Sans MS Bold" size="12.0" />
+                     </font>
+                  </Label>
+               </children>
+            </VBox>
+            <VBox alignment="BOTTOM_LEFT" prefHeight="252.0" prefWidth="149.0" />
+         </children>
+      </HBox>
+      <VBox prefHeight="200.0" prefWidth="100.0" />
+      <Separator layoutY="485.0" prefHeight="3.0" prefWidth="600.0" style="-fx-background-color: #b8a015;" />
+      <Button fx:id="btn_pdfVer" layoutX="10.0" layoutY="515.0" mnemonicParsing="false" onAction="#pdfVer_Basildi" prefHeight="58.0" prefWidth="143.0" text="PDF Ver">
+         <graphic>
+            <ImageView fitHeight="50.0" fitWidth="50.0" translateX="-20.0">
+               <image>
+                  <Image url="@../resimler/icon-pdf.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button fx:id="btn_Yazdir" layoutX="163.0" layoutY="515.0" mnemonicParsing="false" onAction="#yazdirBasildi" prefHeight="58.0" prefWidth="105.0" text="Yazdır">
+         <graphic>
+            <ImageView fitHeight="50.0" fitWidth="50.0" translateX="-6.0">
+               <image>
+                  <Image url="@../resimler/printer.jpg" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button fx:id="btn_Email" layoutX="280.0" layoutY="515.0" mnemonicParsing="false" onAction="#eMailBasildi" text="E-Mail Gönder">
+         <graphic>
+            <ImageView fitHeight="50.0" fitWidth="50.0">
+               <image>
+                  <Image url="@../resimler/email.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button fx:id="btn_odemeYap" layoutX="440.0" layoutY="515.0" mnemonicParsing="false" prefHeight="58.0" prefWidth="143.0" text="Ödeme Yap">
+         <graphic>
+            <ImageView fitHeight="50.0" fitWidth="50.0" layoutX="50.0" layoutY="50.0" translateX="-10.0">
+               <image>
+                  <Image url="@../resimler/ödeme.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</AnchorPane>
