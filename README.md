@@ -30,9 +30,9 @@ Kullanıcı doğru seçimleri yaptıktan sonra bizi kullanıcı girişi karşıl
 <img src="https://xdaqja.am.files.1drv.com/y4mdm1oJfxeXCDJn3IEMan_SOZl5le2ZoDS1Xb0bDIw4e9AfzOYeMHxUuSln_vBS66XoZVsSxb3jGozhFfNaOCzTy2CVVHoPzFG6PaMBSfZJLPuiJQafJWWpVTm3c22WFoGAq-z9BDiLDbghM4UzrG9ZNOGPi-5ez10xAjl3bs4IGUaVk2juzTXLfEv43jA8tjbGsHLXCOWwFrYF7PklIlStg?width=660&height=590&cropmode=none"></img>
 
 <h2>Fatura Grafiklerim Paneli</h2>
-<h3>Bu panelde kullanıcıya doğalgaz şirketinin önceden belirlediği kriterlere göre aylık grafikler gösterilmektedir.</h3>
+<h3>Bu panelde kullanıcıya doğalgaz şirketinin önceden belirlediği kriterlere göre(Toplam fatura bedeli,ısınma için yapılan harcama/kwh,su ısıtma için yapılan harcama/kwh vs. gibi) aylık grafikler gösterilmektedir.</h3>
 
-[Fatura Grafiklerim Paneli Önizleme](https://drive.google.com/open?id=0B_ZmQESdFkPyYW5fdW40RWE4WVU)
+<img src="https://xtaqja.am.files.1drv.com/y4mYzFKW34JGQxJmTPqdEHlIxQfmar1DkNU9dvYUCGnYjK1B0pxILxobZhJXxyWBj0jDEOFEnltakrxQ91qV6szmyZTSFwDm6LBWUq1cYzOdqHoJynBtUFKPCTDQL_QdEN8ocueWF5QRp846FxCAVWj5bgpF3I6iyhJ6GerxGcjQZit3wfP0kt1NggfY7qYYLHQMS04YdZYBQO1aReLZ9TJeA?width=832&height=733&cropmode=none"></img>
 
 <h2>Mesajlarım Paneli</h2>
 <h3>Bu panelde kullanıcı kendisine yöneticilerden gönderilen mesajları görebilmektedir.</h3>
