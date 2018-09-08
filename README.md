@@ -18,7 +18,7 @@ Kullanıcı doğru seçimleri yaptıktan sonra bizi kullanıcı girişi karşıl
 <h2>Bilgilerim Paneli<h2>
 <h3>Kullanıcı ana ekrana geçiş yaptığı zaman ön tanımlı olarak onu ilk bilgilerim paneli karşılamaktadır.Bilgilerim panelinde kullanıcının <q>kişisel bilgileri</q>,<q>abonelik bilgileri</q> ve <q>konut bilgileri</q> gözükmekte ayrıca <q>son giriş tarihi</q>,<q>okunmayan mesaj adeti</q> ve <q>ödenmeyen fatura adeti</q> gibi güncel bilgiler de kullanıcıya gösterilmektedir.Bu bölümde kullanıcının <q>Ad</q>,<q>Soyad</q>,<q>Telefon numarası</q> bilgilerinin şimdilik herhangi bir yetkili onayı gerekmeksizin değiştirmesine izin verilmektedir.</h3>
 
-[Bilgilerim Paneli Önizleme](https://drive.google.com/open?id=0B_ZmQESdFkPyS2tJR0NueExCNEE)
+<img src="https://utaqja.am.files.1drv.com/y4mZS8Z74qDNzt8Be6AZwWshz74NdMmOfVQCasXkMczqLyXFQV4AapQD6x9vGu4Hj-PWqWDArvoEhL-ONxp6QnJs_DpEeYxKkecifYR-_cpPvqQakkE3epwjr4yN-X7Au-p1ezk0MgbsXO87M1RCKxisYkvMavU7inqbmLVirwRakoZPpSEJF6ISgUNkjluw0V42LL27Dxae9D2IxbR9jpKjQ?width=844&height=743&cropmode=none"></img>
 
 <h2>Faturalarım Paneli</h2>
 <h3>Bu panelde kullanıcıya tüm faturalarının detayı indirgenmiş bilgileri listelenmektedir.Kullanıcı burda faturaları <q>Fatura Tutarı</q>,<q>Son Ödeme Tarihi</q> ,<q>Ödenme Durumu</q> ve <q>Fatura Numarası</q> gibi bilgilere göre sıralayabilmektedir.Aynı şekilde bu panelde kullanıcı seçtiği bir faturaya dair detaylı bilgileri görebilmekte bu detaylı bilgileri yazdırabilmekte , resmini <q>pdf</q> formatında alabilmekte ve bu <q>pdf</q> dosyasını istediği bir e-mail adresine gönderebilmektedir.Son olarak bu panelde seçili 2 faturanın detaylı bilgileri kısyaslanabilmektedir.</h3>
