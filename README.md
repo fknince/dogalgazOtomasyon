@@ -25,9 +25,9 @@ Kullanıcı doğru seçimleri yaptıktan sonra bizi kullanıcı girişi karşıl
 
 <img src="https://tjaqja.am.files.1drv.com/y4mggdYSzrM5H5SDWWfngNo0qbP2_sEgeHDZwnDtkfNYHDs8RPPpue5ZhoSBb8MlAAzY8KO2upp0r4Y378_bMdZFcK47Dop5JIzxNFxTW4t-vfW4rhj1UgUroKBrnzauJsxuZpOQSeqGyv_ZATkuOe4eW8nmK5sFq5oqYl_FkN586JOXkJQuot12OIYHLnDrlbWYNZFElwYdI8oHpvgy0Fd8Q?width=842&height=739&cropmode=none"></img>
 
-<img src="https://tzaqja.am.files.1drv.com/y4mlGLEdwwo1EcBAaMuMi4hJ8uOMltdQA-N661xKRMIJq5CpsQ8TX-0cuYTwI0PPfmCsWx593cH15WS6FFrcj8yjYz5hjuvlpL6-PvXLItP42vT6mG_3vNjmvmuuWMf9BKGGJMlrKa1bzOn2mpfjQeA7wWK3M283jB2_1UNqGb0ykeVZh02ZmPDd3tAhdzWUOQS50fV2jt60vrS5jIgnyTizg?width=256&height=224&cropmode=none"></img>
+<img src="https://tzaqja.am.files.1drv.com/y4mlGLEdwwo1EcBAaMuMi4hJ8uOMltdQA-N661xKRMIJq5CpsQ8TX-0cuYTwI0PPfmCsWx593cH15WS6FFrcj8yjYz5hjuvlpL6-PvXLItP42vT6mG_3vNjmvmuuWMf9BKGGJMlrKa1bzOn2mpfjQeA7wWK3M283jB2_1UNqGb0ykeVZh02ZmPDd3tAhdzWUOQS50fV2jt60vrS5jIgnyTizg?width=660&height=578&cropmode=none"></img>
 
-<img src="https://xdaqja.am.files.1drv.com/y4mdm1oJfxeXCDJn3IEMan_SOZl5le2ZoDS1Xb0bDIw4e9AfzOYeMHxUuSln_vBS66XoZVsSxb3jGozhFfNaOCzTy2CVVHoPzFG6PaMBSfZJLPuiJQafJWWpVTm3c22WFoGAq-z9BDiLDbghM4UzrG9ZNOGPi-5ez10xAjl3bs4IGUaVk2juzTXLfEv43jA8tjbGsHLXCOWwFrYF7PklIlStg?width=256&height=229&cropmode=none"></img>
+<img src="https://xdaqja.am.files.1drv.com/y4mdm1oJfxeXCDJn3IEMan_SOZl5le2ZoDS1Xb0bDIw4e9AfzOYeMHxUuSln_vBS66XoZVsSxb3jGozhFfNaOCzTy2CVVHoPzFG6PaMBSfZJLPuiJQafJWWpVTm3c22WFoGAq-z9BDiLDbghM4UzrG9ZNOGPi-5ez10xAjl3bs4IGUaVk2juzTXLfEv43jA8tjbGsHLXCOWwFrYF7PklIlStg?width=660&height=590&cropmode=none"></img>
 
 <h2>Fatura Grafiklerim Paneli</h2>
 <h3>Bu panelde kullanıcıya doğalgaz şirketinin önceden belirlediği kriterlere göre aylık grafikler gösterilmektedir.</h3>
