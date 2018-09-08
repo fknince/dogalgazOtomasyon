@@ -9,9 +9,9 @@ Kullanıcı doğru seçimleri yaptıktan sonra bizi kullanıcı girişi karşıl
 <img src="https://uzaqja.am.files.1drv.com/y4mm2SwA23RSQRRUBEZBK_grHgUcAhKiTfdIuvXqK_4DaaYTQh7j0DE6Byjtoc4GRt1yFHMfvrlgKLmmFt4GUhgQPAlEJvlWUYFK3tOZBJurBIVVb1ZzaU0Tl0R6eLG9k6RVK_sWNLSLav0JaboSnFDHYQ6_pVIC9tF6h1_tQue5Pxm3pNVTh5TzyFkr8YRv9fnFRa0iwqZyffGM-ifjzrAAg?width=674&height=511&cropmode=none"></img>
 
 <h1>Kullanıcı Girişi Ekranı <h1/>
-<h3> Kullanıcı girişini seçtikten sonra burda kullanıcıyı <q>abone No</q> ve <q>şifre</q> bilgilerinin istendiği bir ekran karşılıyor.Kullanıcın bilgileri projeye entegre veritabanımızda tutulmaktadır.Kullanıcı parolası ise MD5 hash algoritması ile şifrelenmiş şekilde veritabanında tutulmaktadır.Kullanıcı <q>abone no </q> bilgisini girerken eş zamanlı olarak veri tabanında olup olmadığı sorgulanmak da eğer var ise yeşil yok ise kırmızı renkte kullanıcıya gözükmektedir. </h3>
+<h3>Burda kullanıcıdan <q>abone No</q> ve <q>şifre</q> bilgileri istenir.Kullanıcın bilgileri projeye entegre veritabanımızda tutulmaktadır.Kullanıcı parolası ise MD5 hash algoritması ile şifrelenmiş şekilde veritabanında tutulmaktadır.Kullanıcı <q>abone no </q> bilgisini girerken eş zamanlı olarak veri tabanında olup olmadığı sorgulanmak da eğer var ise yeşil yok ise kırmızı renkte kullanıcıya gözükmektedir. </h3>
 
-[Kullanıcı Ekranı Girişi Önizleme](https://drive.google.com/open?id=0B_ZmQESdFkPySE5ETVcxSHhQZzA)
+<img src="https://udaqja.am.files.1drv.com/y4mv0goZOd8TEnlu4ZaJTu7yYtT-6ll5qhyXPmPbcGUS2mtLISHR1k2tYilFF4G0rPl31vfA4-9wsxEzSH0PC7Xvwo8ISSvJkR8wPQAFQgFvf9fKc3ilgteWBrFmM5eJTU_bl5f3_ylCdfgEhXLW5GJoaJCPfRpFLtHD8CJ2V5TQ7aaHgcfMgs5-8ai3Zdenwu85ihGXMXKkHVjXE6tYH8l_w?width=384&height=691&cropmode=none"></img>
 
 
 <h1>Ana Ekran</h1>
