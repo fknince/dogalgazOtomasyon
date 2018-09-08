@@ -23,7 +23,11 @@ Kullanıcı doğru seçimleri yaptıktan sonra bizi kullanıcı girişi karşıl
 <h2>Faturalarım Paneli</h2>
 <h3>Bu panelde kullanıcıya tüm faturalarının detayı indirgenmiş bilgileri listelenmektedir.Kullanıcı burda faturaları <q>Fatura Tutarı</q>,<q>Son Ödeme Tarihi</q> ,<q>Ödenme Durumu</q> ve <q>Fatura Numarası</q> gibi bilgilere göre sıralayabilmektedir.Aynı şekilde bu panelde kullanıcı seçtiği bir faturaya dair detaylı bilgileri görebilmekte bu detaylı bilgileri yazdırabilmekte , resmini <q>pdf</q> formatında alabilmekte ve bu <q>pdf</q> dosyasını istediği bir e-mail adresine gönderebilmektedir.Son olarak bu panelde seçili 2 faturanın detaylı bilgileri kısyaslanabilmektedir.</h3>
 
-[Faturalarım Paneli Önizleme](https://drive.google.com/open?id=0B_ZmQESdFkPyQ3d4UDkyMTlOOU0),
+<img src="https://tjaqja.am.files.1drv.com/y4mggdYSzrM5H5SDWWfngNo0qbP2_sEgeHDZwnDtkfNYHDs8RPPpue5ZhoSBb8MlAAzY8KO2upp0r4Y378_bMdZFcK47Dop5JIzxNFxTW4t-vfW4rhj1UgUroKBrnzauJsxuZpOQSeqGyv_ZATkuOe4eW8nmK5sFq5oqYl_FkN586JOXkJQuot12OIYHLnDrlbWYNZFElwYdI8oHpvgy0Fd8Q?width=842&height=739&cropmode=none"></img>
+
+<img src="https://tzaqja.am.files.1drv.com/y4mlGLEdwwo1EcBAaMuMi4hJ8uOMltdQA-N661xKRMIJq5CpsQ8TX-0cuYTwI0PPfmCsWx593cH15WS6FFrcj8yjYz5hjuvlpL6-PvXLItP42vT6mG_3vNjmvmuuWMf9BKGGJMlrKa1bzOn2mpfjQeA7wWK3M283jB2_1UNqGb0ykeVZh02ZmPDd3tAhdzWUOQS50fV2jt60vrS5jIgnyTizg?width=256&height=224&cropmode=none"></img>
+
+<img src="https://xdaqja.am.files.1drv.com/y4mdm1oJfxeXCDJn3IEMan_SOZl5le2ZoDS1Xb0bDIw4e9AfzOYeMHxUuSln_vBS66XoZVsSxb3jGozhFfNaOCzTy2CVVHoPzFG6PaMBSfZJLPuiJQafJWWpVTm3c22WFoGAq-z9BDiLDbghM4UzrG9ZNOGPi-5ez10xAjl3bs4IGUaVk2juzTXLfEv43jA8tjbGsHLXCOWwFrYF7PklIlStg?width=256&height=229&cropmode=none"></img>
 
 <h2>Fatura Grafiklerim Paneli</h2>
 <h3>Bu panelde kullanıcıya doğalgaz şirketinin önceden belirlediği kriterlere göre aylık grafikler gösterilmektedir.</h3>
