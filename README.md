@@ -1,6 +1,6 @@
 <h1>Bot Kontrol Ekranı</h1>
 <h3> Her ne kadar bir web uygulaması olmasa da program ilk çalıştığında
-        bizi <q>bot kontrol</q> ekranı karşılıyor.
+        bizi <q>bot kontrol</q> ekranı karşılıyor :).
         Algoritmasının tamamen bana ait olduğu bu ekran da kullanıcının karşısına rastgele adet dikdörtgenler ve rastgele adet daireler geliyor.
         Kullanıcıdan rastgele olarak dikdörtgen ya da daire şekillerini seçmesi isteniyor.
 Kullanıcı doğru seçimleri yaptıktan sonra bizi kullanıcı girişi karşılıyor.
