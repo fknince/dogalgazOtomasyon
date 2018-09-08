@@ -1,13 +1,12 @@
-<h1>Captcha Bot Kontrol Ekranı</h1>
+<h1>Bot Kontrol Ekranı</h1>
 <h3> Her ne kadar bir web uygulaması olmasa da program ilk çalıştığında
-        bizi <q>captcha</q> ekranı karşılıyor.
-        Algoritmasının tamamen bana ait olduğu bu ekran da kullanıcının 	karşısına rastgele adet dikdörtgenler ve rastgele adet daireler geliyor.
+        bizi <q>bot kontrol</q> ekranı karşılıyor.
+        Algoritmasının tamamen bana ait olduğu bu ekran da kullanıcının karşısına rastgele adet dikdörtgenler ve rastgele adet daireler geliyor.
         Kullanıcıdan rastgele olarak dikdörtgen ya da daire şekillerini seçmesi isteniyor.
-Kullanıcı doğru seçimleri yaptıktan sonra bizi kullanıcı girişi ya da yönetici girişi seçim ekranı karşılıyor.
-Program da şimdilik kullanıcı girişi mevcut. </h3> 
+Kullanıcı doğru seçimleri yaptıktan sonra bizi kullanıcı girişi karşılıyor.
 
 
-[Captcha Ekranı Önizleme](https://drive.google.com/open?id=0B_ZmQESdFkPyYXdwNmowb1BrN0U)
+<img src="https://uzaqja.am.files.1drv.com/y4mm2SwA23RSQRRUBEZBK_grHgUcAhKiTfdIuvXqK_4DaaYTQh7j0DE6Byjtoc4GRt1yFHMfvrlgKLmmFt4GUhgQPAlEJvlWUYFK3tOZBJurBIVVb1ZzaU0Tl0R6eLG9k6RVK_sWNLSLav0JaboSnFDHYQ6_pVIC9tF6h1_tQue5Pxm3pNVTh5TzyFkr8YRv9fnFRa0iwqZyffGM-ifjzrAAg?width=674&height=511&cropmode=none"></img>
 
 <h1>Kullanıcı Girişi Ekranı <h1/>
 <h3> Kullanıcı girişini seçtikten sonra burda kullanıcıyı <q>abone No</q> ve <q>şifre</q> bilgilerinin istendiği bir ekran karşılıyor.Kullanıcın bilgileri projeye entegre veritabanımızda tutulmaktadır.Kullanıcı parolası ise MD5 hash algoritması ile şifrelenmiş şekilde veritabanında tutulmaktadır.Kullanıcı <q>abone no </q> bilgisini girerken eş zamanlı olarak veri tabanında olup olmadığı sorgulanmak da eğer var ise yeşil yok ise kırmızı renkte kullanıcıya gözükmektedir. </h3>
