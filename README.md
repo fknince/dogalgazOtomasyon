@@ -37,14 +37,14 @@ Kullanıcı doğru seçimleri yaptıktan sonra bizi kullanıcı girişi karşıl
 <h2>Mesajlarım Paneli</h2>
 <h3>Bu panelde kullanıcı kendisine yöneticilerden gönderilen mesajları görebilmektedir.</h3>
 
-[Mesajlarım Paneli Önizleme](https://drive.google.com/open?id=0B_ZmQESdFkPyNVIxdmFvZWFOSHM)
+<img src="https://vdcprw.am.files.1drv.com/y4mfNDLlICrXmCvspDtssqizMInTG5xOVLs3CSKExmWN4R5umdZAeKDOiW51ufdEycSFoZ_5H6hsgb0Diputa84XUjX-x2JHAYZdaQRIaX_g_x7Z_oyDGzpDcSvGCFLworjbR5rfHj5WAfmudNIUMt6OtcjrtgYZyScyUHuiXwVTL93YvzXTRZdk1mZD3Yc840bsyL9apEd0vRXXjVnuAHZHA?width=832&height=727&cropmode=none"></img>
 
 <h2>Para Matik Paneli ile Fatura Ödeme</h2>
 <h3>Kullanıcı eğer bir faturayı ödemek isterse bakiyesinde yeterli sanal para varsa ödeme yapılır yoksa otomatik olarak Para Matik paneline aktarılır.Bu panelde kredi kartından para yükleme işlemi e-mail doğrulaması ile simüle edilmiştir ve para yükleme işleminin özetini e-mail ile kendine gönderebilmektedir.Ayrıca kullanıcı bu panelde tüm yükleme ve ödeme işlemlerinin dökümünü görebilmektedir.Bu panelde düzenli ifadeler uygulanmakta ve kullanıcının hatalı bilgiler girmesi engellenmektedir. ( Örneğin Kredi kart numarası girilirken her 4 sayıdan sonra otomatik "-" işareti eklemektedir.) Ayrıca Kredi Kartı Numarası için geçerli bir numara olup olmadığını kontrol eden Lhun algoritmasını uygulamaktadır. </h3>
 
-[Para Matik Paneli Önizleme-1](https://drive.google.com/open?id=0B_ZmQESdFkPyMVcyV0VtRkd1ZG8)
+<img src="https://vtcprw.am.files.1drv.com/y4mqYCPdRWvErQ67F61_KRaGKrNagv1QcULUgq2vPD9P1MT3kFr_dX1lnB8oVZGY2LkOX97ffRifqqke8x_WcQs4L9Uh_CoiZxiFPAuO3tcCYnTrUt3dltv6c9QmraM7aeHUqOb8M0iOzuKex1kBASBoMAQmdHnCLgdl0psaOsalJuPR0diuMAxfv0SgayKE97s64FJWOQNqP7hz9d3zO2g0Q?width=834&height=726&cropmode=none"></img>
 
-[Para Matik Paneli Önizleme-2](https://drive.google.com/open?id=0B_ZmQESdFkPyYks5d1p4NG9DMUk)
+
         
         
        
